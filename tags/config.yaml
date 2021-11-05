@@ -1,0 +1,13 @@
+project-a:
+  team: "awesome"
+  tags:
+    cost-centre: "fin-1"
+    application: "wordpress"
+    tier: "frontend"
+
+project-b:
+  team: "superb"
+  tags:
+    cost-centre: "fin-2"
+    application: "payroll"
+    tier: "backend"
