@@ -4,3 +4,5 @@ resource "aws_instance" "foo" {
 
   tags = local.tags
 }
+
+resource "null_resource" "example" {}
